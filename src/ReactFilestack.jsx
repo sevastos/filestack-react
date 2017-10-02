@@ -117,3 +117,6 @@ class ReactFilestack extends Component {
 }
 
 export default ReactFilestack;
+export {
+  filestack as client,
+};
